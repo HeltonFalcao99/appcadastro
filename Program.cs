@@ -8,7 +8,7 @@ namespace AppCadastro
         {
             Serie mimeuObjeto = new Serie();
 
-            
+          
             
             Console.WriteLine("Hello World!");
         }
