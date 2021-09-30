@@ -1,0 +1,5 @@
+C:\Users\BelialStroke\Desktop\Codigos\AppCadastro\obj\Debug\net5.0\AppCadastro.csproj.AssemblyReference.cache
+C:\Users\BelialStroke\Desktop\Codigos\AppCadastro\obj\Debug\net5.0\AppCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BelialStroke\Desktop\Codigos\AppCadastro\obj\Debug\net5.0\AppCadastro.AssemblyInfoInputs.cache
+C:\Users\BelialStroke\Desktop\Codigos\AppCadastro\obj\Debug\net5.0\AppCadastro.AssemblyInfo.cs
+C:\Users\BelialStroke\Desktop\Codigos\AppCadastro\obj\Debug\net5.0\AppCadastro.csproj.CoreCompileInputs.cache
